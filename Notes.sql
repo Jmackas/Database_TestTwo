@@ -1,7 +1,7 @@
 
 /*
 Case:
-	Three entity --> need to resolve the many to many.
+	Three entity --> need to resolve the many to many. Relational database management systems can’t house M:M relationships.
 
 	To investigate:
 		How does FK constraints operate?
